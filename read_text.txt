@@ -1,0 +1,3 @@
+Harshdeep anant Sonawane
+Department of Computer science
+Reading byte from particular byte of range ,if file is about 50 byte thwn we want to read just particular information like only for the 30 bytes
